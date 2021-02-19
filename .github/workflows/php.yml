@@ -1,0 +1,4 @@
+jobs:
+  run:
+    runs-on: ubuntu-latest
+      php-versions: ['7.3', '7.4']
